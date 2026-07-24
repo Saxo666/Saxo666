@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # รันอัตโนมัติทุกเที่ยงคืน
-  workflow_dispatch: # กดสั่งรันเองได้
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#0369a1
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#161b22,#0c4a6e,#0284c7,#38bdf8,#7dd3fc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
