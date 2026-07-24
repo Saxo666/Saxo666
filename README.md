@@ -34,19 +34,16 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 
 ## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Activity
-
 <div align="center">
+  <!-- GitHub Trophy (ตู้โชว์ถ้วยรางวัล สไตล์ Tokyo Night) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Saxo666&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies" />
+  </a>
 
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
-  
   <br/><br/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
