@@ -1,92 +1,60 @@
-# Hi, I'm Kritsagron 👋
+# ⚡ Hi, I'm Kritsagron
 
-**Full-stack developer** 
-
-[Python] · [JavaScript] · [TypeScript] · [SQL] · [database design]
----
-
-## 👋 About Me
-
-- I'm a **Rangsit University student** with hands-on experience in **Web Developer** at **Minebeamitsumi thailand** — a **a global precision parts manufacturer producing HDD, Medical, and Automotive components.**.
-- I build the systems that turn raw data into decisions: **Data Engineer | I build the systems that turn raw data into decisions.**.
+**Data Engineer & Full-Stack Developer**  
+*Transforming raw data into actionable decisions & building scalable web systems.*
 
 ---
 
-## 💼 What I Do
+## 🚀 About Me
 
-### 🛠️ Data Engineering & Automation
-- **ETL Pipeline Architecture:** Design and develop automated data pipelines using **Python (OOP Architecture)** to extract data from internal enterprise portals (e.g., iReport) and MRP systems.
-- **Data Transformation:** Utilize **Pandas** for data wrangling, type casting, and applying complex business logic filtering (e.g., isolating specific data types like "EXPENSE") prior to database ingestion.
-- **Database Integration:** Manage data ingestion into **SQL Server (MSSQL)** via `SQLAlchemy` and `pyodbc`, implementing efficient load strategies such as chunked inserts and transaction-based update/delete operations.
-- **Pipeline Orchestration:** Build command-line utilities and runner scripts (e.g., `run_all_supply.py`) to execute multiple data modules concurrently, eliminating 100% of manual data extraction time.
+I am a **Computer Science student at Rangsit University** with hands-on experience as a Web Developer and Data Engineer trainee at **MinebeaMitsumi (Thailand)**—a global precision parts manufacturer producing HDD, Medical, and Automotive components. I specialize in bridging the gap between heavy backend data pipelines and modern frontend applications.
 
-### 📊 Data Analysis & Business Intelligence
-- **Cost & Inventory Tracking:** Consolidate and structure data across Factory Supply, Expense Splits, and Inventory Balances to drive production cost analysis.
-- **Procurement & MRP Monitoring:** Track Material Requirements Planning (MRP) and Purchase Requisition (PR) status histories to optimize supply chain and procurement efficiency.
-- **Dashboard Automation:** Integrate data pipelines with SQL Stored Procedures (`sp_RefreshDashboardSummary`) to automatically trigger KPI dashboard refreshes immediately upon successful data loads.
-- **Data Standardization:** Maintain core dimension tables (e.g., Organize Code Master, 62xx Targets) to ensure data accuracy and standardization across all reporting views.
+---
 
-### 🏭 Domain & Tech Stack
-- **Domain Expertise:** Manufacturing & Operations · Production Cost Monitoring · Supply Chain (MRP/PR) · Inventory Management
-- **Tech Stack:** Python, Pandas, SQLAlchemy, pyodbc, SQL Server (MSSQL), Git
+## 🛠️ What I Do
+
+| Area | Description |
+| :--- | :--- |
+| **Data Engineering & Automation** | Architect automated ETL pipelines using **Python (OOP)** to extract, clean (Pandas), and ingest manufacturing data into **SQL Server**. |
+| **Business Intelligence** | Track production costs, inventory balances, and MRP/PR statuses to drive cost reduction initiatives and optimize supply chains. |
+| **Pipeline Orchestration** | Develop runner scripts that eliminate 100% of manual data extraction time, seamlessly triggering KPI dashboard refreshes upon successful loads. |
+| **Web Development** | Build fast, responsive, and interactive web applications using modern frameworks like **Next.js**. |
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**Data & Analysis:**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Data & Databases**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Visualization:**
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-
-**Databases & Dev Tools:**
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Antigravity](https://img.shields.io/badge/-Antigravity%20IDE-2F3337?style=flat-square&logo=googlegemini&logoColor=white)
+**Tools & Visualization**  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Selected Projects
+## 📈 Impact & Metrics
 
-### 🔹 [ExpenseMonitor (Cost Reduction Project)](https://github.com/SuperPeterDev/CostReductionProject/tree/dev/ExpenseMonitor)
-Designed and implemented an automated expense tracking and cost reduction system for manufacturing operations. Built end-to-end data pipelines to extract production costs, supply data, and inventory balances, transforming raw data into actionable insights to drive continuous cost-saving initiatives.
-**Tech:** `Python` `Pandas` `SQL Server (MSSQL)` `Data Automation`
-
-### 🔹 [uxl-project (Next.js Web Application)](https://github.com/Saxo666/uxl-project)
-Developed a modern, responsive web application using Next.js. Deployed seamlessly to Vercel ([Live Demo](https://uxl-project.vercel.app)) to provide an optimized, fast, and interactive user experience.
-**Tech:** `Next.js` `JavaScript` `Vercel`
-
-### 🔹 [AutoLoad_exmo (Enterprise Data Pipeline)](https://github.com/Saxo666/AutoLoad_exmo)
-Built a scalable, object-oriented ETL framework extracting manufacturing cost, inventory, and MRP data from internal enterprise portals. Validated and transformed massive data loads via Pandas before seamlessly syncing to SQL Server.
-**Tech:** `Python` `Pandas` `SQLAlchemy` `pyodbc`
+*   **100% Automation:** Eliminated manual data extraction and Excel manipulation (saving 10+ hours per cycle) with `AutoLoad` scripts.
+*   **Cost Reduction Visibility:** Enabled full transparency into production expenses and overhead gaps, empowering management to make data-driven decisions.
+*   **Single Source of Truth:** Standardized core dimension tables and centralized data into SQL Server for accurate dashboard reporting.
 
 ---
 
-## 📈 Impact (Sample Metrics)
+## 📌 Featured Projects
 
-- **Cost Reduction Tracking** → enabled full visibility into production expenses and overhead gaps, empowering management to make data-driven cost reduction decisions.
-- **Automated Workflows (AutoLoad & ExpenseMonitor)** → reduced manual data extraction and Excel manipulation time by **100% (saving 10+ hours per cycle)**, establishing a single source of truth in SQL Server.
-- **Full-Stack Versatility** → successfully bridged the gap between heavy backend data pipelines (Python/SQL) and modern frontend web applications (Next.js).
-
----
-
-## 🎓 Background
-
-- **Bachelor's degree** · **computer science** — **Rangsit University**
-- **Minebeamitsumi thailand** — **Studen trainee of Cost Reduction(MA)**
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[ExpenseMonitor](https://github.com/SuperPeterDev/CostReductionProject/tree/dev/ExpenseMonitor)** | Automated expense tracking & cost reduction system for manufacturing operations. | `Python` `Pandas` `SQL Server` |
+| **[AutoLoad_exmo](https://github.com/Saxo666/AutoLoad_exmo)** | Scalable, OOP-based ETL framework syncing massive manufacturing data loads. | `Python` `SQLAlchemy` `pyodbc` |
+| **[uxl-project](https://github.com/Saxo666/uxl-project)** | Modern, responsive web application with optimized performance. ([Live Demo](https://uxl-project.vercel.app)) | `Next.js` `Vercel` `JS` |
 
 ---
 
-## 📫 Connect
+## 🎓 Background & Contact
 
-- 📧 **Email:** zack66634@gmail.com
+**Education:** Bachelor of Science in Computer Science — **Rangsit University**  
+**Experience:** Student Trainee (Cost Reduction & MA) — **MinebeaMitsumi (Thailand)**  
+**Contact:** 📧 [zack66634@gmail.com](mailto:zack66634@gmail.com)
