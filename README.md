@@ -1,19 +1,21 @@
 <div align="center">
-  <!-- Typing Text Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Kritsagron;🚀+Data+Engineer;💻+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
+
+  <!-- Typing Text Animation (Safe Mode: ลบอีโมจิออกเพื่อกัน URL พัง) -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=I'm+Kritsagron;)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Data+Engineer)](https://git.io/typing-svg)
+      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
   <br/>
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Saxo666&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Saxo666&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
   <br/><br/>
 
   <!-- Social / Contact Badges -->
-  <a href="mailto:zack66634@gmail.com"><img src="https://img.shields.io/badge/Email-zack66634%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Saxo666"><img src="https://img.shields.io/badge/GitHub-Saxo666-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  [![Email](https://img.shields.io/badge/Email-zack66634%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zack66634@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Saxo666-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saxo666)
+
 </div>
 
 ---
@@ -33,14 +35,17 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+  <!-- GitHub Stats (Safe Mode) -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true)
   
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
