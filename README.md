@@ -35,10 +35,8 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Trophy (ตู้โชว์ถ้วยรางวัล สไตล์ Tokyo Night) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saxo666&theme=tokyonight&column=3&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <!-- GitHub Activity Graph (โหลดไว เสถียรมาก) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saxo666&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
   <br/><br/>
 
