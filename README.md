@@ -35,13 +35,24 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Activity Graph (โหลดไว เสถียรมาก) -->
+
+  <!-- 🐍 GitHub Contribution Snake (เจ้างูกิน Commit) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saxo666/Saxo666/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saxo666/Saxo666/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Saxo666/Saxo666/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saxo666&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 
   <br/><br/>
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
