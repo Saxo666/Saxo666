@@ -1,13 +1,47 @@
-# ⚡ Hi, I'm Kritsagron
+<div align="center">
+  <!-- Typing Text Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=⚡+Hi,+I'm+Kritsagron;🚀+Data+Engineer;💻+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 
-**Data Engineer & Full-Stack Developer**  
-*Transforming raw data into actionable decisions & building scalable web systems.*
+  <br/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Saxo666&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Social / Contact Badges -->
+  <a href="mailto:zack66634@gmail.com"><img src="https://img.shields.io/badge/Email-zack66634%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Saxo666"><img src="https://img.shields.io/badge/GitHub-Saxo666-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+---
+
+<div align="center">
+  <i>Transforming raw data into actionable decisions & building scalable web systems.</i>
+</div>
 
 ---
 
 ## 🚀 About Me
 
 I am a **Computer Science student at Rangsit University** with hands-on experience as a Web Developer and Data Engineer trainee at **MinebeaMitsumi (Thailand)**—a global precision parts manufacturer producing HDD, Medical, and Automotive components. I specialize in bridging the gap between heavy backend data pipelines and modern frontend applications.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -37,9 +71,9 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 
 ## 📈 Impact & Metrics
 
-*   **100% Automation:** Eliminated manual data extraction and Excel manipulation (saving 10+ hours per cycle) with `AutoLoad` scripts.
-*   **Cost Reduction Visibility:** Enabled full transparency into production expenses and overhead gaps, empowering management to make data-driven decisions.
-*   **Single Source of Truth:** Standardized core dimension tables and centralized data into SQL Server for accurate dashboard reporting.
+*   🔥 **100% Automation:** Eliminated manual data extraction and Excel manipulation (saving 10+ hours per cycle) with `AutoLoad` scripts.
+*   📉 **Cost Reduction Visibility:** Enabled full transparency into production expenses and overhead gaps, empowering management to make data-driven decisions.
+*   🎯 **Single Source of Truth:** Standardized core dimension tables and centralized data into SQL Server for accurate dashboard reporting.
 
 ---
 
@@ -53,8 +87,11 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 
 ---
 
-## 🎓 Background & Contact
+## 🎓 Background
 
-**Education:** Bachelor of Science in Computer Science — **Rangsit University**  
-**Experience:** Student Trainee (Cost Reduction & MA) — **MinebeaMitsumi (Thailand)**  
-**Contact:** 📧 [zack66634@gmail.com](mailto:zack66634@gmail.com)
+- 🎓 **Education:** Bachelor of Science in Computer Science — **Rangsit University**  
+- 💼 **Experience:** Student Trainee (Cost Reduction & MA) — **MinebeaMitsumi (Thailand)**  
+
+<div align="center">
+  <i>Let's connect and build something awesome! 🚀</i>
+</div>
