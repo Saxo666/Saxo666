@@ -34,17 +34,18 @@ I am a **Computer Science student at Rangsit University** with hands-on experien
 
 ## 📊 GitHub Stats & Activity
 
+## 📊 GitHub Stats & Activity
+
 <div align="center">
 
-  <!-- GitHub Stats (Safe Mode) -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true)
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Saxo666&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saxo666&layout=compact&theme=tokyonight&hide_border=true)
-  
-  <br/>
+  <br/><br/>
 
   <!-- GitHub Streak -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saxo666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
